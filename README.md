@@ -1,2 +1,2 @@
 # Easter
-Some fun easter eggs i generally leave in projects
+Some fun easter eggs i generally leave in projects created in react
