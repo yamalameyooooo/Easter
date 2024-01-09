@@ -1,5 +1,5 @@
 //This Generates COWSAY in console, can be used as easter egg in when uses clicks on Contact Us page.
-class Easter {
+class Cowsay {
 
     static QUOTES: string[] = [
         'Programmer: A machine that \nturns coffee into code.',
@@ -22,4 +22,4 @@ class Easter {
 
 }
 
-export default Easter;
+export default Cowsay;
